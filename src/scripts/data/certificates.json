@@ -1,0 +1,34 @@
+{
+  "certificates": [
+    {
+      "name": "Menjadi Front-End Developer Expert",
+      "img": "./certificates/fe-expert.jpg",
+      "src": "https://www.dicoding.com/certificates/1OP86GW0LXQK"
+    },
+    {
+      "name": "Belajar Fundamental Front-End Web Development",
+      "img": "./certificates/fundamental-fe.jpg",
+      "src": "https://www.dicoding.com/certificates/07Z6R17YYPQR"
+    },
+    {
+      "name": "Belajar Dasar Pemrograman JavaScript",
+      "img": "./certificates/dasar-js.jpg",
+      "src": "https://www.dicoding.com/certificates/RVZKK48KEZD5"
+    },
+    {
+      "name": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+      "img": "./certificates/back-end-pemula.jpg",
+      "src": "https://www.dicoding.com/certificates/N9ZO4E7WRZG5"
+    },
+    {
+      "name": "Belajar Dasar Git dengan GitHub",
+      "img": "./certificates/dasar-git.jpg",
+      "src": "https://www.dicoding.com/certificates/EYX428R16ZDL"
+    },
+    {
+      "name": "Meniti Karier sebagai Software Developer",
+      "img": "./certificates/meniti-karir.jpg",
+      "src": "https://www.dicoding.com/certificates/QLZ92KDEMX5D"
+    }
+  ]
+}

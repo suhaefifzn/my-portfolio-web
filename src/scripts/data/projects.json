@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Bookshelf App",
+      "img": "./projects/bookshelf-app.jpg",
+      "src": "https://github.com/suhaefifzn/bookshelf-app",
+      "desc": "Bookshelf App merupakan aplikasi web yang dibuat untuk mengelola buku yang sudah dibaca atau belum. Dibangun menggunakan HTML, CSS, dan JavaScript dengan memanfaatkan fitur Web Storage. Project ini dibuat sebagai syarat kelulusan dari kelas Belajar Membuat Front-End Web untuk Pemula di Dicoding."
+    },
+    {
+      "name": "Growth Familie",
+      "img": "./projects/growth-familie.jpg",
+      "src": "https://github.com/Growth-Familie",
+      "desc": "Growth Familie merupakan tugas Capstone atau akhir dari kegiatan SIB Dicoding yang memiliki tema untuk solusi keluarga dan parenting. Aplikasi ini dibangun dalam bentuk tim yang beranggotakan 4 orang. Mendukung PWA dan menggunakan API mandiri untuk mengelola kontennya."
+    },
+    {
+      "name": "Malapar App",
+      "img": "./projects/malapar.jpg",
+      "src": "https://github.com/suhaefifzn/last-submission-fe-expert-dicoding",
+      "desc": "Malapar App merupakan aplikasi web yang dibangun sebagai syarat kelulusan kelas Menjadi Front-End Web Developer Expert. Aplikasi ini telah mendukung PWA yang menggunakan teknologi Workbox dan dalam pembuatannya memperhatikan sisi aksesibilitas untuk pengguna seperti tab order dan ukuran tombol."
+    },
+    {
+      "name": "Vinder",
+      "img": "./projects/vinder.jpg",
+      "src": "https://github.com/suhaefifzn/web-movie-finder",
+      "desc": "Vinder merupakan project mandiri, yakni aplikasi berbasis web untuk mencari dan menyimpan film favorit yang datanya berasal dari API TheMovieDB.org. Vinder telah mendukung PWA dan memanfaatkan IndexedDB."
+    }
+  ]
+}
